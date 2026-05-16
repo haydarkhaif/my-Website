@@ -120,6 +120,12 @@ a {
   color: var(--accent-strong);
 }
 
+/* Active nav link */
+.site-nav a.active {
+  color: var(--accent-strong);
+  font-weight: 800;
+}
+
 .hero-section {
   padding: 5rem 0 4rem;
 }
